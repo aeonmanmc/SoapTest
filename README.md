@@ -1,6 +1,6 @@
 # SoapTest
 
-### Soap provider steps:
+### Soap producer steps:
 1. jaxb2-maven-plugin (pom.xml) 
 goal - xjc
 2. provide xsd file
